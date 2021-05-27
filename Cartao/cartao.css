@@ -1,0 +1,33 @@
+
+ol{
+    width: 400px;
+    height: 200px;
+    background-image: url("./backgorund.png");
+    background-size: cover;
+}
+ol li{
+    font-size: 20px;
+    margin: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#nome{
+    font-family: 'Roboto Mono', monospace;
+    font-weight:bold;
+    list-style: none;
+    padding-top: 30px;
+}
+#insta{
+    font-family: 'Dancing Script', cursive;
+    list-style-image: url("/Cartao/Insta.png");
+}
+#twitter{
+    font-family: 'Dancing Script', cursive;
+    list-style-image: url("/Cartao/Twitter.png");
+}
+#youtube{
+    font-family: 'Dancing Script', cursive;
+    list-style-image: url("/Cartao/Youtube.png");
+}
